@@ -37,7 +37,9 @@
 
 <h2 id="demoprojeto">Demonstração online do projeto <img align="center" src="https://cdn-icons-png.flaticon.com/512/5511/5511365.png" width="35"/></h2>
 
-<p><b>EM BREVE !!!</b></p>
+<a href="https://projetoautentica.000webhostapp.com/"><b>Projeto Autentica Demonstração</b></a><br>
+<a href="https://projetoautentica.000webhostapp.com/"><b>Projeto Autentica Demonstração</b></a><br>
+<a href="https://projetoautentica.000webhostapp.com/"><b>Projeto Autentica Demonstração</b></a>
     
 <h2 id="autores">Autor do Projeto 👨‍💼</h2>
 <a href="https://github.com/AhMoutinho/" title="André Moutinho"><img align="center" src="https://i.imgur.com/VN0Vh9S.png" width="25"/> André Moutinho</a>  
